@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { initializeApp } from 'firebase/app';
 import './index.css';
+import './styles.css';
 import {
   getFirestore,
   collection,
