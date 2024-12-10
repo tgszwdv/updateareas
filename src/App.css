@@ -1,0 +1,13 @@
+/* App.css */
+:root {
+  --cor: #dbdbdb;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: var(--cor);
+  color: #c2c2c2;
+  font-size: 1.2rem;
+}
